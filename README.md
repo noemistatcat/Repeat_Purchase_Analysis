@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates how to create a custom, automated visualization of repeat purchase behavior
+Custom and automated visualization of repeat purchase behavior using BigQuery and Google Data Studio.
 
 Full medium article can be found [here](https://towardsdatascience.com/how-to-monitor-repeat-purchase-behavior-using-google-data-studio-and-bigquery-c2b5adbe8ebb) 
 
